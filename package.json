@@ -1,11 +1,11 @@
 {
-  "name": "hw-10-toglle-theme",
+  "name": "togle-them-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ArtemKolesnyk.github.io/hw-10-toglle-theme",
+  "homepage": "https://ArtemKolesnyk.github.io/togle-them-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /hw-10-toglle-theme/"
+    "build": "parcel build src/*.html --public-url /togle-them-hw-10/"
   },
   "repository": {
     "type": "git",
